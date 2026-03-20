@@ -76,6 +76,14 @@ This project focuses on analyzing transactional sales data from a multi-location
 
 ---
 
+## 📷 Dashboard Preview
+
+![image alt](https://github.com/yogeshkale09/Caf-Sales-Performance-Analysis/blob/c79da459b260b6d3ddc530accfd72c0149eff898/Executive%20Overview.png)
+![image alt](https://github.com/yogeshkale09/Caf-Sales-Performance-Analysis/blob/c79da459b260b6d3ddc530accfd72c0149eff898/SALES%20%26%20PRODUCT%20ANALYSIS.png)
+![image alt](https://github.com/yogeshkale09/Caf-Sales-PerformanceAnalysis/blob/c79da459b260b6d3ddc530accfd72c0149eff898/CUSTOMER%20%26%20BEHAVIOR%20ANALYSIS1.png)
+
+---
+
 ## 📌 Key Insights
 
 * Revenue is concentrated among a few high-performing products (Pareto effect)
@@ -106,11 +114,7 @@ This project focuses on analyzing transactional sales data from a multi-location
 
 ---
 
-## 📷 Dashboard Preview
 
-*(Add screenshots here)*
-
----
 
 ## 🧠 Learnings
 
