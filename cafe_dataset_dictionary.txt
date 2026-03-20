@@ -1,0 +1,36 @@
+Dataset Columns & Description
+
+This dataset contains transactional-level sales data used for performing
+data cleaning, exploratory data analysis (EDA), and building an
+interactive Power BI dashboard for business insights.
+
+  -----------------------------------------------------------------------
+  Column Name         Description
+  ------------------- ---------------------------------------------------
+  Transaction Date    Date on which the transaction occurred
+
+  Item                Name of the product purchased (e.g., Coffee, Tea,
+                      Juice)
+
+  Quantity            Number of units purchased in a single transaction
+
+  Price Per Unit      Cost of a single unit of the item
+
+  Total Spent         Total amount spent in the transaction (Quantity ×
+                      Price Per Unit)
+
+  Location            Café branch/location where the transaction took
+                      place
+
+  Payment Method      Mode of payment used by the customer (Cash, UPI,
+                      Card)
+  -----------------------------------------------------------------------
+
+Additional Columns (Created in Power BI)
+
+Day Name | Name of the day (Mon, Tue, etc.) derived from Transaction
+Date Day Number | Numeric representation of day (1–7) used for sorting
+Month Name | Month name (Jan, Feb, etc.) derived from date Month Number
+| Numeric month (1–12) for sorting Day Type | Categorization of day into
+Weekday or Weekend Customer Type | Segmentation based on spending (High
+Value / Normal)
